@@ -1,2 +1,2 @@
-# hackutd-23
-This is our HackUTD project
+# Our HackUTDX Project!
+### This is our project we created for the HackUTDX Hackathon!
